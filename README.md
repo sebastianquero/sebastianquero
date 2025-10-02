@@ -88,3 +88,11 @@ Generador de contraseñas robusto desarrollado en Java. La aplicación presenta 
 [![GitHub](https://img.shields.io/badge/📁_Repository-181717)](https://github.com/nox-e/password_generator)
 
 ---
+
+### 🎨 [Task Management App](https://github.com/tuusuario/taskapp)
+
+Aplicación de gestión de tareas con drag & drop y colaboración en tiempo real.
+**Tecnologías:** Vue.js, Express, Socket.io, PostgreSQL
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2ea44f)](https://demo.com)
+[![GitHub](https://img.shields.io/badge/📁_Repository-181717)](https://github.com/tuusuario/ecommerce)
